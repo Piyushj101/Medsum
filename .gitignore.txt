@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build folders
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage
+coverage/
+
+# Cache
+.cache/
+
+# Optional package lock
+# package-lock.json
+
+# Uploads (optional if storing user uploads locally)
+uploads/
+
+# Generated files
+*.tgz
+
+# Local database files
+*.sqlite
+*.db
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
